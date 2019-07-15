@@ -1,2 +1,2 @@
 # Meu primeiro repositório GitHub primeiroprojeto
-##Formação JavaScritp
+## Formação JavaScritp
