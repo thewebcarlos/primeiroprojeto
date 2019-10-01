@@ -1,3 +1,3 @@
 # Meu primeiro repositório GitHub primeiroprojeto
 ## Formação JavaScritp
-Faça já sua inscrição!
+O Melhor Curso de Javascript
